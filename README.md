@@ -1,3 +1,6 @@
+# This is a fork of gosteam
+I made this fork to make the package dep friendly
+
 ## Intent
 
 gosteam aims to provide a set of functions that interact with various [Steam](http://store.steampowered.com/) interfaces. For example:
